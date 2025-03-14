@@ -1,4 +1,4 @@
-<img src="123.jpg" width="200" hieght="200">
+<img src="JG QRcode.png">
 
 |項次|項目|內容|
 |---:|---|---|
