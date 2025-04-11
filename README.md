@@ -68,7 +68,7 @@ alt="OKC Thunder vs Philadelphia 76ers" width="400" height="250" border="10" /><
 
 |項次|項目|內容|
 |---|---|---|
-| 1 | 圖片 | <img src="123.jpg" width="200" hieght="200"> |
+| 1 | 圖片 | <img src="EMU900.jpg" width="200" hieght="200"> |
 | 2 | 車名 | EMU900 |
 | 3 | 車種 | 區間車 |
 
