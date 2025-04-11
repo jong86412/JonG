@@ -22,10 +22,12 @@ alt="OKC Thunder vs Philadelphia 76ers" width="400" height="250" border="10" /><
 ## 台鐵營運車種列表
 
 </summary>
-|項目|內容|
-|---|---|
-| 圖片 | <img src="123.jpg" width="200" hieght="200"> |
-| 車種 | E1000 |
+|項次|項目|內容|
+|---|---|---|
+| 1 | 圖片 | <img src="123.jpg" width="200" hieght="200"> |
+| 2 | 姓名 | 陳冠中 |
+| 3 | 職稱 | 助理工務員 |
+| 4 | 任職公司 | 台鐵 |
 
 [E1000]
 [EMU500、600、700、800、900]
