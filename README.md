@@ -25,7 +25,7 @@ alt="OKC Thunder vs Philadelphia 76ers" width="400" height="250" border="10" /><
 |項目|內容|
 |---|---|
 | 圖片 | <img src="123.jpg" width="200" hieght="200"> |
-| 姓名 | E1000 |
+| 車種 | E1000 |
 
 [E1000]
 [EMU500、600、700、800、900]
