@@ -1,7 +1,7 @@
 <img src="JG QRcode.png" width="200" hieght="200">
 
 |項次|項目|內容|
-|---:|---|---|
+|---|---|---|
 | 1 | 圖片 | <img src="123.jpg" width="200" hieght="200"> |
 | 2 | 姓名 | 陳冠中 |
 | 3 | 職稱 | 助理工務員 |
@@ -19,11 +19,11 @@ alt="OKC Thunder vs Philadelphia 76ers" width="400" height="250" border="10" /><
 <details>
 <summary>
 
-## 台鐵車種列表
+## 台鐵營運車種列表
 
 </summary>
 |項目|內容|
-|---:|---|
+|---|---|
 | 圖片 | <img src="123.jpg" width="200" hieght="200"> |
 | 姓名 | E1000 |
 
