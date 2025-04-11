@@ -22,9 +22,9 @@ alt="OKC Thunder vs Philadelphia 76ers" width="400" height="250" border="10" /><
 ## 台鐵車種列表
 
 </summary>
-E1000
-EMU500、600、700、800、900
-EMU3000
-TEMU1000
-TEMU2000
+[E1000]
+[EMU500、600、700、800、900]
+[EMU3000]
+[TEMU1000]
+[TEMU2000]
 </details>
