@@ -25,56 +25,56 @@ alt="OKC Thunder vs Philadelphia 76ers" width="400" height="250" border="10" /><
 
 |項次|項目|內容|
 |---|---|---|
-| 1 | 圖片 | <img src="E1000.jpg" width="200" hieght="200"> |
+| 1 | 圖片 | <img src="E1000.jpg" width="300" hieght="300"> |
 | 2 | 車名 | E1000 |
 | 3 | 車種 | 自強號 |
 | 4 | 特色 | PP推拉式機車 |
 
 |項次|項目|內容|
 |---|---|---|
-| 1 | 圖片 | <img src="TEMU1000.jpg" width="200" hieght="200"> |
+| 1 | 圖片 | <img src="TEMU1000.jpg" width="300" hieght="300"> |
 | 2 | 車名 | TEMU1000 |
 | 3 | 車種 | 自強號 |
 | 4 | 特色 | (太魯閣)傾斜式列車 |
 
 |項次|項目|內容|
 |---|---|---|
-| 1 | 圖片 | <img src="TEMU2000.jpg" width="200" hieght="200"> |
+| 1 | 圖片 | <img src="TEMU2000.jpg" width="300" hieght="300"> |
 | 2 | 車名 | TEMU2000 |
 | 3 | 車種 | 自強號 |
 | 4 | 特色 | (普悠瑪)傾斜式列車 |
 
 |項次|項目|內容|
 |---|---|---|
-| 1 | 圖片 | <img src="EMU3000.jpg" width="200" hieght="200"> |
+| 1 | 圖片 | <img src="EMU3000.jpg" width="300" hieght="300"> |
 | 2 | 車名 | EMU3000 |
 | 3 | 車種 | 自強號 |
 | 4 | 特色 | 新車!! |
 
 |項次|項目|內容|
 |---|---|---|
-| 1 | 圖片 | <img src="E500.jpg" width="200" hieght="200"> |
+| 1 | 圖片 | <img src="E500.jpg" width="300" hieght="300"> |
 | 2 | 車名 | E500 |
 | 3 | 車種 | 自強號 |
 | 4 | 特色 | 新車!! |
 
 |項次|項目|內容|
 |---|---|---|
-| 1 | 圖片 | <img src="EMU500.jpg" width="200" hieght="200"> |
+| 1 | 圖片 | <img src="EMU500.jpg" width="300" hieght="300"> |
 | 2 | 車名 | EMU500 |
 | 3 | 車種 | 區間車 |
 | 4 | 特色 | 老車!! |
 
 |項次|項目|內容|
 |---|---|---|
-| 1 | 圖片 | <img src="EMU800.jpg" width="200" hieght="200"> |
+| 1 | 圖片 | <img src="EMU800.jpg" width="300" hieght="300"> |
 | 2 | 車名 | EMU800 |
 | 3 | 車種 | 區間車 |
 | 4 | 特色 | 微笑號 |
 
 |項次|項目|內容|
 |---|---|---|
-| 1 | 圖片 | <img src="EMU900.jpg" width="200" hieght="200"> |
+| 1 | 圖片 | <img src="EMU900.jpg" width="300" hieght="300"> |
 | 2 | 車名 | EMU900 |
 | 3 | 車種 | 區間車 |
 | 4 | 特色 | 號稱最美區間車? |
